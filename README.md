@@ -21,3 +21,8 @@ Below is a collection of ArcGIS and Python projects I have completed.
 	- Raster analysis layers originally conducted in ArcGIS Pro, exported to a web layer
 	- Uses varying parameters on IDW, Spline, and Kriging raster analysis tools
 
+## Python Exercises
+- PigLatin.py
+	- A script that translates user input into the Pig Latin Language
+- Radius.py
+	- A script that references pi from the math module to calculate the radius of a circle when provided a value for radius from 	 	   user input
