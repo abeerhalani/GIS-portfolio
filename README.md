@@ -20,11 +20,6 @@ Below is a collection of ArcGIS and Python projects I have completed.
 	- Contains spatial analysis layers built around a parcel that an owner intends to change the zoning on
 	- Uses buffer, union, intersect, and clip analysis tools
 	
-- Mt Rainier temperature
-	- http://arcg.is/1KCiO0
-	- Raster analysis layers originally conducted in ArcGIS Pro, exported to a web layer
-	- Uses varying parameters on IDW, Spline, and Kriging raster analysis tools
-	
 - Geocode with Python
 	- Geocoded address list using Pandas, GeoPandas, and GeoPy
 	- Created a Pandas dataframe from a csv file of addresses and plotted location with Matplotlib
